@@ -1,0 +1,3 @@
+[submodule "workshop-docker"]
+	path = workshop-docker
+	url = https://gitlab.utwente.nl/soa-course/workshop-docker
